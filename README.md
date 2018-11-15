@@ -1,2 +1,2 @@
 # hello-world
-my first repository for exercise.
+my first repository, for exercise.
