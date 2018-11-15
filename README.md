@@ -7,4 +7,4 @@ This is the third updata.
 
 this is the third updata.
 
-query：If I change the original text , conflict may be interpreted?
+query：If I change the original text , conflict may be caused?
