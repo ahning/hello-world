@@ -1,10 +1,13 @@
 # hello-world
-my first repository, for exercise.
 
-自述 - 编辑的更改- this is the second time updata。
+master:
+  my first repository, for exercise.
 
-This is the third time updata.
+readme-edits:
+  this is the second time data has been uploaded。
 
-this is the third time updata.
+This is the third time data has been uploaded.
+
+This is the fourth time data has been uploaded.
 
 query：If I change the original text , conflict may be caused?
